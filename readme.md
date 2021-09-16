@@ -1,4 +1,4 @@
-# Sitio institucional de City Plur Argentina
+# Sitio institucional de City Plus Argentina
 
 
-[Ir al sitio](https://www.cityplusarg.com)
+[Ir al sitio](http://cityplusarg.com)
